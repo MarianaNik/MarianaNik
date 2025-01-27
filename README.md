@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**MarianaNik/MarianaNik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My name is Mariana and I'm studying Human Systems Engineering with a focus on User experience at Arizona State University. After graduation, I'm hoping to work on creating and improving user experiences as a UX researcher or product manager. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My technical skills include low and high fidelity wireframes, mockups, and prototypes within figma, as well as a basic understanding of html, css and javascript. I'm also well versed in user research including analyzing quantitative and qualitative data to pinpoint user frustrations in currently used platforms. 
+
+In my free time, I mainly see family, read fiction, and travel. 
+
+Get in touch with me:
+
+<a href="https://www.linkedin.com/in/mariana-nikolopoulou/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarianaNik&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
