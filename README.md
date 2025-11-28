@@ -5,7 +5,7 @@ My name is Mariana and I'm studying Human Systems Engineering with a focus on Us
 
 My technical skills include low and high fidelity wireframes, mockups, and prototypes within figma, as well as a basic understanding of html, css and javascript. I'm also well versed in user research including analyzing quantitative and qualitative data to pinpoint user frustrations in currently used platforms. 
 
-In my free time, I mainly see family, read fiction, and travel. 
+In my free time, I mainly spend time with family, read fiction, and travel. 
 
 Get in touch with me:
 
